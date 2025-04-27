@@ -1,4 +1,7 @@
 # Module Manager
+可用在 Office / AutoCAD (*.dvb) 的 VBA 匯出/匯入
+* 解決 ThisWorkbook (Type:vbext_ct_Document) 匯出/匯入問題
+* 用 AutCAD 2008 測試
 
 ## Why?
 
